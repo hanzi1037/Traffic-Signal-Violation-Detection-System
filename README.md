@@ -1,3 +1,8 @@
+**Important Note:** 
+If you want to run this project.The image have to be pulled from docker.
+Links: https://hub.docker.com/r/mubashertahir/traffic-violation-detection
+
+
 # Traffic Signal Violation Detection System using Computer Vision
 
 > <h3><a href="https://youtu.be/PxHkKLUk_QM" target="_blank">Project Video Demonstration</a></h3>
